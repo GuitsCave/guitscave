@@ -13,7 +13,7 @@ Perfil para organizar projetos, estudos e experimentos com dados, BI e automa√ß√
 
 ---
 
-## Stack (resumido)
+## Stack
 
 - Python, SQL, DAX  
 - Power BI, Pandas  
@@ -40,7 +40,7 @@ Alguns evoluem para projetos mais estruturados, outros ficam como refer√™ncia t√
 
 ---
 
-## Contato (se precisar)
+## Contato
 
 - LinkedIn: https://www.linkedin.com/in/luizguilhermebatista
 

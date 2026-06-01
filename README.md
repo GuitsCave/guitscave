@@ -18,8 +18,14 @@ Perfil para organizar projetos, estudos e experimentos com dados, BI e automa√ß√
 - Python, SQL
 - Power BI
 - Oracle, PostgreSQL
-- Jenkins
+- Airflow, Jenkins
 - Git
+
+## AI Stack
+
+- OpenAI
+- Claude
+- AntiGravity
 
 <div align="left">
 

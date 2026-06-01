@@ -15,10 +15,10 @@ Perfil para organizar projetos, estudos e experimentos com dados, BI e automa√ß√
 
 ## Stack
 
-- Python, SQL, DAX  
-- Power BI, Pandas  
-- Oracle, PostgreSQL  
-- Airflow, Jenkins  
+- Python, SQL
+- Power BI
+- Oracle, PostgreSQL
+- Jenkins
 - Git
 
 <div align="left">

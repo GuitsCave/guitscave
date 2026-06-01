@@ -20,13 +20,7 @@ Perfil para organizar projetos, estudos e experimentos com dados, BI e automa√ß√
 - Oracle, PostgreSQL
 - Airflow, Jenkins
 - Git
-
-## AI Stack
-
-- OpenAI
-- Claude
-- AntiGravity
-
+  
 <div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -36,6 +30,12 @@ Perfil para organizar projetos, estudos e experimentos com dados, BI e automa√ß√
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
+
+## AI Stack
+
+- OpenAI
+- Claude
+- AntiGravity
 
 ---
 

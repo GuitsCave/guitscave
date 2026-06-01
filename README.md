@@ -42,7 +42,7 @@ Alguns evoluem para projetos mais estruturados, outros ficam como referÃªncia tÃ
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/luizguilhermebatista
+- [LinkedIn](https://www.linkedin.com/in/luizguilhermebatista)
 
 ---
 

@@ -35,7 +35,7 @@ Perfil para organizar projetos, estudos e experimentos com dados, BI e automa√ß√
 
 - OpenAI
 - Claude
-- AntiGravity
+- Antigravity
 
 ---
 
